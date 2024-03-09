@@ -1,0 +1,11 @@
+Aluno: Id, nome, dataNascimento, sexo, email, telefone, equipe
+
+Equipe: Etec, nome, modalidade, sexo
+
+Etec: Numero, Nome, Cidade
+
+Cidade: Id, Nome, UF
+
+Modalidade: Id, Nome, NumeroMaximoParticipantes
+
+Partida: Modalidade, DataPartida, Equipe1, Equipe2, PontosEquipe1, PontosEquipe2
